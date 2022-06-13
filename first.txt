@@ -1,0 +1,7 @@
+this is version1 of my project
+i want this to commit
+changes here 
+i change again
+
+again changed
+2nd chnage'
